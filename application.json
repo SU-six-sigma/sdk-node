@@ -1,0 +1,11 @@
+{
+    "ccpPath": "/home/sgibrc_svr_1/dev/test-sdk/ccp.json",
+    "walletPath": "wallet",
+    "mspId": "Org1MSP",
+    "certificateAuthorities": "ca.org1.com",
+    "appUser": "testUser1",
+    "affiliation": "org1.department1",
+    "channel": "mychannel",
+    "chaincode": "leo",
+    "asLocalhost": "true"
+}
